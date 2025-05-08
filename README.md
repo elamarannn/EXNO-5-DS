@@ -220,4 +220,5 @@ plt.legend()
 ![download](https://github.com/user-attachments/assets/0e7a0061-b73e-4abd-ba8e-3ce09515aa48)
 
 # Result:
- Include your result here
+Thus Data Visualization using matplot python library for the given datas is performed
+
